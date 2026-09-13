@@ -16,5 +16,3 @@ spring:
     enabled: true
 server:
   port: 8080
-
-https://chatgpt.com/share/6aa715c6-6528-83ee-80a7-2a79cf732a8f
