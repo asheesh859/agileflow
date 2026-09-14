@@ -20,6 +20,7 @@ import lombok.*;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
+@Entity
 public class OrganizationMember {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
